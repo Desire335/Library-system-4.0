@@ -1,0 +1,16 @@
+Title,Author,ISBN,Status,Borrower,Genre,Reading Time
+1984,George Orwell,123456789,Borrowed,Amy,Fiction,6
+To Kill a Mockingbird,Harper Lee,987654321,Available,,Classic,8
+Brave New World,Aldous Huxley,456789123,Borrowed,John,Science Fiction,7
+The Great Gatsby,F. Scott Fitzgerald,1122334455,Available,,Classic,5
+Moby Dick,Herman Melville,9988776655,Available,,Adventure,10
+Pride and Prejudice,Jane Austen,5544332211,Borrowed,Alice,Romance,9
+The Catcher in the Rye,J.D. Salinger,6677889900,Available,,Classic,6
+The Hobbit,J.R.R. Tolkien,1231231231,Available,,Fantasy,8
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,1112223334,Borrowed,Bob,Fantasy,10
+War and Peace,Leo Tolstoy,2233445566,Available,,Historical,12
+The Alchemist,Paulo Coelho,3344556677,Available,,Philosophy,4
+Jane Eyre,Charlotte Bronte,1357924680,Available,,Classic,5
+The Little Prince,Antoine de Saint-Exupery,0099887766,Borrowed,Mary,Classic,3
+1,1,1,Available,,1,1
+2,2,2,Borrowed,Cindy,2,2
